@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "news1",
+      "description": "A bustling stock exchange floor with traders and screens.",
+      "imageUrl": "https://picsum.photos/seed/n1/600/400",
+      "imageHint": "stock market"
+    },
+    {
+      "id": "news2",
+      "description": "Close up on a screen showing financial data and charts.",
+      "imageUrl": "https://picsum.photos/seed/n2/600/400",
+      "imageHint": "financial data"
+    },
+    {
+      "id": "news3",
+      "description": "A person analyzing stock market data on a laptop.",
+      "imageUrl": "https://picsum.photos/seed/n3/600/400",
+      "imageHint": "laptop finance"
+    },
+    {
+      "id": "news4",
+      "description": "New York Stock Exchange building facade.",
+      "imageUrl": "https://picsum.photos/seed/n4/600/400",
+      "imageHint": "wall street"
+    },
+    {
+      "id": "user-avatar",
+      "description": "A portrait of a person for user avatar.",
+      "imageUrl": "https://picsum.photos/seed/ua1/100/100",
+      "imageHint": "person portrait"
+    }
+  ]
+}
