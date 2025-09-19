@@ -11,16 +11,23 @@ Access the live app here:
 
 ---
 
+## YouTube Demo
+
+Watch the full walkthrough:  
+**[MeInvest Demo on YouTube](https://youtu.be/H-4XzFxyQDg)**
+
+---
+
 ## Features
 
-- **Real-Time Market Data:** View live updates for stocks, cryptocurrencies, mutual funds, gold, and more.
-- **AI Trend Analysis:** Use Genkit AI to generate market summaries and predictions.
-- **Portfolio Management:** Track your investments, transactions, and savings plans.
-- **Interactive Dashboards:** Visualize data with charts, cards, and custom UI components.
-- **Financial News Feed:** Stay updated with the latest market news.
-- **Responsive Design:** Optimized for desktop and mobile devices.
-- **User Authentication:** Secure login and profile management (via Firebase).
-- **Customizable Themes:** Light/dark mode and system theme support.
+- Real-time market data for stocks, crypto, funds, gold, and more
+- AI-powered market summaries and predictions
+- Portfolio and transaction management
+- Interactive dashboards and charts
+- Financial news feed
+- Responsive design for desktop and mobile
+- Secure authentication and profile management (Firebase)
+- Customizable themes (light/dark/system)
 
 ---
 
