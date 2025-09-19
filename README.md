@@ -4,6 +4,13 @@ MeInvest is a modern Next.js application for real-time market data, AI-powered t
 
 ---
 
+## Live Demo
+
+Access the live app here:  
+**[MeInvest Live Server](https://studio--studio-1782527690-60ac6.us-central1.hosted.app/)**
+
+---
+
 ## Features
 
 - **Real-Time Market Data:** View live updates for stocks, cryptocurrencies, mutual funds, gold, and more.
